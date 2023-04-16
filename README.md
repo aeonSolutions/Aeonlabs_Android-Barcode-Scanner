@@ -8,7 +8,7 @@ Available on AeonLabs Google Play free to download:
 https://play.google.com/store/apps/details?id=aeonlabs.cloud.barcodescanner
 
 <p align="center">
-   <img src="">
+   <img src="https://github.com/aeonSolutions/Aeonlabs_Android-Barcode-Scanner/blob/main/barcode_scanner.png">
 </p>
 
 <br />
