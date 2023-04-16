@@ -1,0 +1,5 @@
+include ':BarcodeScannerEnterprise'
+include ':AeonLabsCommonLibraries'
+include ':BarcodeScannerHome'
+include ':BarcodeScannerStandalone'
+include ':BarCodeScannerCommonLibraries'

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code.iml" filepath="$PROJECT_DIR$/.idea/modules/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AeonLabsCommonLibraries/code.AeonLabsCommonLibraries.iml" filepath="$PROJECT_DIR$/.idea/modules/AeonLabsCommonLibraries/code.AeonLabsCommonLibraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BarCodeScannerCommonLibraries/code.BarCodeScannerCommonLibraries.iml" filepath="$PROJECT_DIR$/.idea/modules/BarCodeScannerCommonLibraries/code.BarCodeScannerCommonLibraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BarcodeScannerEnterprise/code.BarcodeScannerEnterprise.iml" filepath="$PROJECT_DIR$/.idea/modules/BarcodeScannerEnterprise/code.BarcodeScannerEnterprise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barcodescannerhome/code.BarcodeScannerHome.iml" filepath="$PROJECT_DIR$/.idea/modules/barcodescannerhome/code.BarcodeScannerHome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barcodescannerstandalone/code.BarcodeScannerStandalone.iml" filepath="$PROJECT_DIR$/.idea/modules/barcodescannerstandalone/code.BarcodeScannerStandalone.iml" />
+    </modules>
+  </component>
+</project>
