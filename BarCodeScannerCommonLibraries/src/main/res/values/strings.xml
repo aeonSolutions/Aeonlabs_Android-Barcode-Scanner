@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BarCodeScannerCommonLibraries</string>
+
+    <string name="open_data">Open Data</string>
+    <string name="dialog_title_open_data">Open Data</string>
+    <string name="open_data_text">By using this App you accept scanned bar codes and location data to be copied and sent to AoenLabs Open Data Database too.</string>
+
+    <string name="about">About</string>
+    <string name="dialog_title_about">AeonLabs Solutions</string>
+    <string name="about_company">Check AeonLabs\'s website for more Android solutions for IoT.</string>
+    <string name="about_company_website">www.aeonlabs.solutions</string>
+
+    <string name="share">Share</string>
+
+    <string name="sample_code">123123123123221</string>
+    <string name="date_example">10 Nov 2017 12.12 AM</string>
+    <string name="scan_no">Scan No #</string>
+    <string name="number">1</string>
+
+    <string name="message">text</string>
+</resources>
