@@ -1,4 +1,15 @@
-#  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs_android-barcode-scanner/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs_android-barcode-scanner) [Prototype Cloud Server Barcode & QR code Scanner]() 	
+[Open Software Caralog](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue)  >> Prototype Cloud Server Barcode & QR code Scanner
+
+[![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0)
+ [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) 
+ [![Donate](https://img.shields.io/badge/donate-$-brown.svg?style=for-the-badge)](http://paypal.me/mtpsilva)
+ [![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-yellow.svg?style=for-the-badge)](https://saythanks.io/to/mtpsilva)
+![](https://img.shields.io/github/last-commit/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo?style=for-the-badge) <a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l98tfr0vje3q971a0cbl" alt="trackgit-views" />
+</a>
+![](https://views.whatilearened.today/views/github/aeonSolutions/Aeonlabs_Android-Barcode-Scanner.svg)
+
+#  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs_android-barcode-scanner/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs_android-barcode-scanner)  Prototype Cloud Server Barcode & QR code Scanner
 **Project Total: 32 work.h**
 
 is an Android App available on AeonLabs Google Play Store.  The purpose of this App is to automate stock materials and products at a warehouse or a site, by scanning products and materials with individual barcode / QR codes and upload them to any enterprise cloud server API.
